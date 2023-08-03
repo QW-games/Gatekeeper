@@ -1,0 +1,13 @@
+bin/
+dep/
+.vscode/
+target/
+lib/
+makefile
+include/SDL2/
+*.dll
+*.a
+*.exe
+teste
+save.txt
+*.la
