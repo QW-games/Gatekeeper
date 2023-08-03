@@ -3,7 +3,6 @@ dep/
 .vscode/
 target/
 lib/
-makefile
 include/SDL2/
 *.dll
 *.a
